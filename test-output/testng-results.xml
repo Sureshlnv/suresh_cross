@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="11175" started-at="2018-07-04T10:20:53Z" finished-at="2018-07-04T10:21:04Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="11175" started-at="2018-07-04T10:20:53Z" finished-at="2018-07-04T10:21:04Z">
+      <class name="com.chiselon.CrossBrowser.CBTest">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.chiselon.CrossBrowser.CBTest@8bd1b6a]" name="setup" is-config="true" duration-ms="7418" started-at="2018-07-04T15:50:53Z" finished-at="2018-07-04T15:51:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="testParameterWithXML()[pri:0, instance:com.chiselon.CrossBrowser.CBTest@8bd1b6a]" name="testParameterWithXML" duration-ms="3736" started-at="2018-07-04T15:51:00Z" finished-at="2018-07-04T15:51:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testParameterWithXML -->
+      </class> <!-- com.chiselon.CrossBrowser.CBTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
